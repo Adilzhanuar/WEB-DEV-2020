@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+v = int(input())
+t = int(input())
+s = (v*t)%109
+=======
+v = int(input())
+t = int(input())
+s = (v*t)%109
+>>>>>>> 02dce2f7d1883584c5b5f3cac5f0e37321f79bfe
+print(s)
